@@ -2,8 +2,6 @@
 
 This website is to record the moments of our class.
 
-***
-
 ## File Organization Structure   
 ### ***Annotation***  
 `****` is a directory   
@@ -44,8 +42,6 @@ This website is to record the moments of our class.
 |-`vendor`    
 
 `config` contains universal config file of all tests. `e2e` contains end to end test scripts for whole application. `unit` contains unit test scripts. `vendor` contains third party libraries.
-
-***
 
 ## File Naming Conventions   
 - All Javascript files have `.js` extension name.
